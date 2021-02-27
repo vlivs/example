@@ -1,4 +1,4 @@
-module vlivs/example
+module example
 func main() {
 	print("Hello World")
 }
