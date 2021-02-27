@@ -1,4 +1,4 @@
 module example
-func main() {
+fn main() {
 	print("Hello World")
 }
